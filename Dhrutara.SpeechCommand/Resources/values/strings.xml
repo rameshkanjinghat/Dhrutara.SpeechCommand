@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Dhrutara.SpeechCommand</string>
+  <string name="action_settings">Settings</string>
+  <string name="messageSpeakNow">Speak now!</string>
+</resources>
